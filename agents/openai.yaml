@@ -1,4 +1,4 @@
 interface:
-  display_name: "連假彈性機票規劃"
-  short_description: "查核連假、比較彈性機票與請假成本，核對航班並製作旅遊決策報告"
-  default_prompt: "使用 $holiday-flight-planner，幫我比較連假前後的 4～5 天旅行方案，兼顧機票價格、請假天數與航班時間。"
+  display_name: "連假彈性旅遊規劃"
+  short_description: "支援自由行與跟團，比較連假日期、必要費用與請假成本並製作旅遊報告"
+  default_prompt: "使用 $holiday-flight-planner，以跟團為主比較連假附近的 4～5 天行程，兼顧總費用、請假天數、成團狀態與行程品質。"
